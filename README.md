@@ -21,3 +21,7 @@ Here are some ideas to get you started:
 [![stevenzdg988's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stevenzdg988&theme=xcode)](https://github.com/stevenzdg988)
 
 ![Metrics](https://metrics.lecoq.io/stevenzdg988?template=classic&config.timezone=Asia%2FShanghai)
+
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
