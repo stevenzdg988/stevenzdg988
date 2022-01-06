@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ### Action
-![GeekBear's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenzdg988&show_icons=true&theme=radical) 
+![GeekBear's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenzdg988&show_icons=true&theme=cobalt) 
 [![GeekBear's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenzdg988&show_icons=true&theme=radical)](https://github.com/stevenzdg988/github-readme-stats)
 
 
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-CSS3-8572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-pink?style=flat-square&logo=javascript&logoColor=white)
 
-[![stevenzdg988's GitHub stats](https://github-readme-stats.vercel.app/api?username=stevenzdg988)](https://github.com/stevenzdg988/github-readme-stats)
+
