@@ -1,4 +1,4 @@
-### Hi GeekBear 👋
+### GeekBear 👋
 
 <!--
 **stevenzdg988/stevenzdg988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
