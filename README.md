@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 [![stevenzdg988's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=stevenzdg988&theme=xcode)](https://github.com/stevenzdg988)
 
-[!GeekBear's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenzdg988 GitHub ID&layout=compact&hide_border=true&langs_count=10)
+[![GeekBear's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=stevenzdg988 GitHub ID&layout=compact&hide_border=true&langs_count=10)]
