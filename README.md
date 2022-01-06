@@ -29,3 +29,5 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-HTML5-FF4F26?style=flat-square&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/-CSS3-8572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-pink?style=flat-square&logo=javascript&logoColor=white)
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
