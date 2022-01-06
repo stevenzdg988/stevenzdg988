@@ -22,9 +22,9 @@ Here are some ideas to get you started:
 
 ![Metrics](https://metrics.lecoq.io/stevenzdg988?template=classic&config.timezone=Asia%2FShanghai)
 
-![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
 ![](https://img.shields.io/badge/-C-E34F26?style=flat-square&logo=c&logoColor=white)
 ![](https://img.shields.io/badge/-C++-1572B6?style=flat-square&logo=c++)
 ![](https://img.shields.io/badge/-Python-oringe?style=flat-square&logo=python)
+![](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![](https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript)
