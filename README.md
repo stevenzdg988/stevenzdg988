@@ -16,6 +16,11 @@
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
   ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=bash%2B%2B&logoColor=30599C)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=276DC3)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby%2B%2B&logoColor=30599C)
+  ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=276DC3)
+  ![Perl](https://img.shields.io/badge/-Perl-333333?style=flat&logo=perl%2B%2B&logoColor=30599C)
+  ![Lisp](https://img.shields.io/badge/-Lisp-333333?style=flat&logo=lisp%2B%2B&logoColor=30599C)
 - 🌐 &nbsp;
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
