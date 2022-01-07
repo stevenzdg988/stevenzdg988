@@ -74,4 +74,3 @@
 <a href="https://twitter.com/"><img alt="Twitter" src="https://img.shields.io/badge/twitter-Eric-blue?style=flat-square&logo=twitter"></a>
 </p>
 
-⭐️ From [AVS1508](https://github.com/AVS1508)
