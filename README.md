@@ -56,9 +56,8 @@
 <h3> 🤝🏻 &nbsp;以下是我的联系方式 </h3>
 
 <p align="center">
-<a href="https://stevenzdg988.github.io/ITech"><img alt="Website" src="https://img.shields.io/badge/Website-www.adityavsingh.com-blue?style=flat-square&logo=google-chrome"></a>
+<a href="https://stevenzdg988.github.io/ITech"><img alt="Website" src="https://img.shields.io/badge/Website-ITech-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.cn/injobs/in/r-r-e-zee-a4b06120a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href=""><img alt="Instagram" src="https://img.shields.io/badge/Instagram-adityavs__-blue?style=flat-square&logo=instagram"></a>
 <a href="mailto:stevenzdg988@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-stevenzdg988@gmail.com-blue?style=flat-square&logo=gmail"></a>
 </p>
 
