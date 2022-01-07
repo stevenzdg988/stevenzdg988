@@ -36,11 +36,12 @@
   ![GitCode](https://img.shields.io/badge/-GitCode-333333?style=flat&logo=gitcode)
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
 - 🔧 &nbsp;
+  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
   ![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-  ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
   ![Emacs](https://img.shields.io/badge/-Emacs-333333?style=flat&logo=emacs-ide&logoColor=2C2255)
+  ![JetBrains](https://img.shields.io/badge/-JetBrains-333333?style=flat&logo=jetbrains-ide&logoColor=2C2255)
 - 🖥 &nbsp;
   ![Illustrator](https://img.shields.io/badge/-Illustrator-333333?style=flat&logo=adobe-illustrator)
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
@@ -48,9 +49,9 @@
 
 <br/>
 
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=AVS1508&theme=buefy&show_icons=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AVS1508&theme=buefy&layout=compact" />
+<a href="https://github.com/stevenzdg988">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenzdg988&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenzdg988&theme=buefy&layout=compact" />
 </a>
 
 <br/>
