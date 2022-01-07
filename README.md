@@ -24,9 +24,9 @@
   ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
   ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 - 🛢 &nbsp;
-  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+  ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 - ⚙️ &nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
