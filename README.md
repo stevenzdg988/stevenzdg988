@@ -47,8 +47,6 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<br/>
-
 <h3> 🤝🏻 &nbsp;GitHub 动态 </h3>
 
 <a href="https://github.com/stevenzdg988">
