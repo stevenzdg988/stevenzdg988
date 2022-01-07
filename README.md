@@ -32,6 +32,10 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
+- ☁️ &nbsp;
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Virtualization]](https://img.shields.io/badge/-Virtualization-333333?style=flat&logo=virtual)
 - ⚙️ &nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
