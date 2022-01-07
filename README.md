@@ -15,10 +15,10 @@
   ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
   ![R (Statistics)](https://img.shields.io/badge/-R-333333?style=flat&logo=R&logoColor=276DC3)
-  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=bash%2B%2B&logoColor=30599C)
   ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go&logoColor=276DC3)
-  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby%2B%2B&logoColor=30599C)
   ![Rust](https://img.shields.io/badge/-Rust-333333?style=flat&logo=rust&logoColor=276DC3)
+  ![Shell](https://img.shields.io/badge/-Shell-333333?style=flat&logo=bash%2B%2B&logoColor=30599C)
+  ![Ruby](https://img.shields.io/badge/-Ruby-333333?style=flat&logo=ruby%2B%2B&logoColor=30599C)
   ![Perl](https://img.shields.io/badge/-Perl-333333?style=flat&logo=perl%2B%2B&logoColor=30599C)
   ![Lisp](https://img.shields.io/badge/-Lisp-333333?style=flat&logo=lisp%2B%2B&logoColor=30599C)
 - 🌐 &nbsp;
@@ -34,6 +34,7 @@
   ![SQL](https://img.shields.io/badge/-SQL-333333?style=flat&logo=sql)
 - ⚙️ &nbsp;
   ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  ![LaTeX](https://img.shields.io/badge/-LaTeX-333333?style=flat&logo=latex)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Gitee](https://img.shields.io/badge/-Gitee-333333?style=flat&logo=gitee)
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
