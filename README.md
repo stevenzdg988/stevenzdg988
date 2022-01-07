@@ -2,10 +2,10 @@
 
 <h3> 🐼 &nbsp; 一点介绍:D </h3>
 
-- 👨‍🎓 &nbsp; Pay attention to the new technology of software development solutions and hacker technology.
-- 🎓 &nbsp; Studying Computer Science and Mathematics in spare time.
+- 📘 &nbsp; Pay attention to the new technology of software development solutions and hacker technology.
+- 👨‍🎓 &nbsp; Learning Computer Science and Mathematics in spare time.
 - 💼 &nbsp; Served as a computer course teaching job in a school.
-- 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
+- 👨‍💻 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursue Git and Blog writing as a hobby/side business.
 
 <h3> 🛠 &nbsp; 技术堆栈 </h3>
