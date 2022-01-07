@@ -71,7 +71,7 @@
 <p align="center">
 <a href="https://stevenzdg988.github.io/ITech"><img alt="Website" src="https://img.shields.io/badge/Website-ITech-blue?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.linkedin.cn/injobs/in/r-r-e-zee-a4b06120a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
-<a href="mailto:stevenzdg988@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-stevenzdg988@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<a href="mailto:zeerre98988@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-GeekBear-blue?style=flat-square&logo=gmail"></a>
 </p>
 
 ⭐️ From [AVS1508](https://github.com/AVS1508)
