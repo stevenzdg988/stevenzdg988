@@ -1,6 +1,6 @@
 <h2> 嗨，我是广广，英文名 GeekBear.</h2>
 
-<h3> 🐼 &nbsp;关于我的一些介绍 </h3>
+<h3> 🐼 &nbsp; 一点介绍-英文的哦:D </h3>
 
 - 👨‍🎓 &nbsp; Pay attention to the new technology of software development solutions and hacker technology.
 - 🎓 &nbsp; Studying Computer Science and Mathematics in spare time.
@@ -47,7 +47,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<h3> 📊 &nbsp;GitHub 动态 </h3>
+<h3> 📊 &nbsp; GitHub 动态 </h3>
 
 <a href="https://github.com/stevenzdg988">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenzdg988&theme=buefy&show_icons=true" />
@@ -56,7 +56,7 @@
 
 <br/>
 
-<h3> 🤝🏻 &nbsp;以下是我的联系方式 </h3>
+<h3> 🤝🏻 &nbsp; 联系方式 </h3>
 
 <p align="center">
 <a href="https://stevenzdg988.github.io/ITech"><img alt="Website" src="https://img.shields.io/badge/Website-ITech-blue?style=flat-square&logo=google-chrome"></a>
