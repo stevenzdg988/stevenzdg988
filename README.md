@@ -1,6 +1,6 @@
 <h2> 嗨，我是广广，英文名 GeekBear.</h2>
 
-<h3> 👨🏻‍💻 &nbsp;关于我的一些介绍 </h3>
+<h3> 🐼 &nbsp;关于我的一些介绍 </h3>
 
 - 👨‍🎓 &nbsp; Pay attention to the new technology of software development solutions and hacker technology.
 - 🎓 &nbsp; Studying Computer Science and Mathematics in spare time.
@@ -8,7 +8,7 @@
 - 🌱 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursue Git and Blog writing as a hobby/side business.
 
-<h3> 🛠 &nbsp;Tech Stack</h3>
+<h3> 🛠 &nbsp; 技术堆栈 </h3>
 
 - 💻 &nbsp;
   ![C](https://img.shields.io/badge/-C-333333?style=flat&logo=C%2B%2B&logoColor=00599C)
@@ -28,14 +28,14 @@
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 - ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Gitee](https://img.shields.io/badge/-Gitee-333333?style=flat&logo=gitee)
   ![Gitlab](https://img.shields.io/badge/-Gitlab-333333?style=flat&logo=gitlab)
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Coding](https://img.shields.io/badge/-Coding-333333?style=flat&logo=coding)
   ![GitCode](https://img.shields.io/badge/-GitCode-333333?style=flat&logo=gitcode)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
-- 🔧 &nbsp;
+  - 🔧 &nbsp;
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
