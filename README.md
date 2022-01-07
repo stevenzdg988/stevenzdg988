@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/-CSS3-8572B6?style=flat-square&logo=css3&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-pink?style=flat-square&logo=javascript&logoColor=white)
 
-
+[![GeekBear's github stats](https://github-readme-stats.vercel.app/api?username=stevenzdg988)](https://github.com/anuraghazra/github-readme-stats)
