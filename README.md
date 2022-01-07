@@ -35,7 +35,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![Coding](https://img.shields.io/badge/-Coding-333333?style=flat&logo=coding)
   ![GitCode](https://img.shields.io/badge/-GitCode-333333?style=flat&logo=gitcode)
-  - 🔧 &nbsp;
+- 🔧 &nbsp;
   ![Vim](https://img.shields.io/badge/-Vim-333333?style=flat&logo=vim)
   ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
   ![RStudio](https://img.shields.io/badge/-RStudio-333333?style=flat&logo=rstudio)
