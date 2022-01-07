@@ -47,7 +47,7 @@
   ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)
   ![InDesign](https://img.shields.io/badge/-InDesign-333333?style=flat&logo=adobe-indesign)
 
-<h3> 🤝🏻 &nbsp;GitHub 动态 </h3>
+<h3> 📊 &nbsp;GitHub 动态 </h3>
 
 <a href="https://github.com/stevenzdg988">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=stevenzdg988&theme=buefy&show_icons=true" />
