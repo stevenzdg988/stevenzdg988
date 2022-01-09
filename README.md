@@ -77,6 +77,7 @@
 <a href="https://www.linkedin.cn/injobs/in/r-r-e-zee-a4b06120a"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Aditya%20Vikram%20Singh-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:zeerre98988@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-GeekBear-blue?style=flat-square&logo=gmail"></a>
 <a href="https://www.facebook.com/profile.php?id=100076758106674"><img alt="FaceBook" src="https://img.shields.io/badge/facebook-GeekBear-blue?style=flat-square&logo=facebook"></a>
-<a href="https://twitter.com/"><img alt="Twitter" src="https://img.shields.io/badge/twitter-GeekBear-blue?style=flat-square&logo=twitter"></a>
+<a href="https://twitter.com/frstlis"><img alt="Twitter" src="https://img.shields.io/badge/twitter-GeekBear-blue?style=flat-square&logo=twitter"></a>
+<a href="https://www.reddit.com/user/frstlis"><img alt="Reddit" src="https://img.shields.io/badge/reddit-Frstlis-blue?style=flat-square&logo=reddit"></a>
 </p>
 
