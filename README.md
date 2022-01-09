@@ -79,6 +79,6 @@
 <a href="https://www.facebook.com/Zeerre-110308251534251"><img alt="FaceBook" src="https://img.shields.io/badge/facebook-GeekBear-blue?style=flat-square&logo=facebook"></a>
 <a href="https://twitter.com/frstlis"><img alt="Twitter" src="https://img.shields.io/badge/twitter-GeekBear-blue?style=flat-square&logo=twitter"></a>
 <a href="https://www.reddit.com/user/frstlis"><img alt="Reddit" src="https://img.shields.io/badge/reddit-Frstlis-blue?style=flat-square&logo=reddit"></a>
-<a href="https://www.instagram.com/zeeree98988/"><img alt="Reddit" src="https://img.shields.io/badge/instagram-Frstlis-blue?style=flat-square&logo=instagram"></a>
+<a href="https://www.instagram.com/zeeree98988/"><img alt="Instagram" src="https://img.shields.io/badge/instagram-zeeree-blue?style=flat-square&logo=instagram"></a>
 </p>
 
