@@ -7,6 +7,7 @@
 - 💼 &nbsp; Served as a computer course teaching job in a school.
 - 👨‍💻 &nbsp; Learning more about Cloud Architecture, Systems Design and Artificial Intelligence.
 - ✍️ &nbsp; Pursue Git and Blog writing as a hobby/side business.
+- Oh，yeah！！！
 
 <h3> 🛠 &nbsp; 技术堆栈 </h3>
 
